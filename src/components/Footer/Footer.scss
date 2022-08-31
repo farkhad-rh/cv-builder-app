@@ -1,0 +1,13 @@
+.Footer {
+  margin: 1rem 0 2rem;
+  text-align: center;
+
+  a {
+    transition: 0.2s all ease;
+
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: transparent;
+    }
+  }
+}
