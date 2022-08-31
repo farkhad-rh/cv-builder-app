@@ -1,1 +1,1 @@
-# cv-builder-app
+# cv-builder-app --- React.js + Styled Components
